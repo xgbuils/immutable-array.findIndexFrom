@@ -1,5 +1,5 @@
 {
-  "name": "immutable-array.findIndexFrom",
+  "name": "immutable-array.find-index-from",
   "version": "0.1.0",
   "description": "find the index of first item that matches with a predicate starting from index",
   "main": "index.js",
